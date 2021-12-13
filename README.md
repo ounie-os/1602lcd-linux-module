@@ -2,6 +2,9 @@
 
 **Linux下1602 LCD屏幕驱动**
 
+![image](https://github.com/ounie-os/1602lcd-linux-module/blob/master/doc/1602.jpg)
+
+
 # 参数说明
 
 ## LCD引脚定义 ##
